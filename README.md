@@ -4,12 +4,21 @@ My Web portfolio created using React, Create React App and React Material Design
 
 ## Resources Information
 React-MDL: 
+
 https://tleunen.github.io/react-mdl/
 
 https://github.com/tleunen/react-mdl
 
 Create React App:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+UI gradients:
+
+https://uigradients.com/#Mello
+
+Awesome Icons:
+
+https://fontawesome.com/icons
 
 ## Available Scripts
 
