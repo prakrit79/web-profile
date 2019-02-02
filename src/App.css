@@ -61,3 +61,23 @@
 	font-size: 5em;
 	padding: 8px;
 }
+
+
+.project-grid{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+
+}
+
+.project-links{
+	display: flex;
+	height:300px;
+	justify-content: space-between;
+	margin: auto;
+}
+
+.project-links i{
+	font-size: 5em;
+	padding: 6px;
+}
