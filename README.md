@@ -1,12 +1,13 @@
+## About this project
 My Web portfolio created using React, Create React App and React Material Design components. You can find information about my past and current projects, resume as well as my personal interests. You can find the link for the resources I used down below in the information section.
 
 
-##Information
+# Resoursces Information
 React-MDL: 
 https://tleunen.github.io/react-mdl/
 https://github.com/tleunen/react-mdl
 
-#Create React App
+Create React App:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
