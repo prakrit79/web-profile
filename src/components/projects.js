@@ -13,7 +13,7 @@ class Projects extends Component{
 					<div className = "project-links">
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '100%', height: '100%', margin: 'auto'}}>
-    							<CardTitle expand style={{background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vsgSGuMmZVWPPzjS_zh-nXcHBdSQ1zYcVVXv7USROt0-Zxw3) center 20% no-repeat'}}>
+    							<CardTitle expand style={{background: 'url(https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png) center 20% no-repeat'}}>
     								Web Portfolio
     							</CardTitle>
    								 <CardText>
@@ -26,8 +26,8 @@ class Projects extends Component{
 						</Cell>
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '100%', height: '100%', margin: 'auto'}}>
-    							<CardTitle expand style={{background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vsgSGuMmZVWPPzjS_zh-nXcHBdSQ1zYcVVXv7USROt0-Zxw3) center 20% no-repeat'}}>
-    								Concerts Map
+    							<CardTitle expand style={{background: 'url(https://cdn2.iconfinder.com/data/icons/nodejs-1/128/nodejs-128.png) center 20%  no-repeat'}}>
+    								Concert Map
     							</CardTitle>
    								 <CardText>
         							JavaScript | JSON | REST
@@ -39,8 +39,8 @@ class Projects extends Component{
 						</Cell>
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '100%', height: '100%', margin: 'auto'}}>
-    							<CardTitle expand style={{background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vsgSGuMmZVWPPzjS_zh-nXcHBdSQ1zYcVVXv7USROt0-Zxw3) center 20% no-repeat'}}>
-    								 Clinic Database
+    							<CardTitle expand style={{background: 'url(https://liuji-jim.gallerycdn.vsassets.io/extensions/liuji-jim/vue/0.1.5/1478501659069/Microsoft.VisualStudio.Services.Icons.Default) center 20% no-repeat'}}>
+    								 Clinic Data
     							</CardTitle>
    								 <CardText>
         							CSS | Vue JS | SQL
