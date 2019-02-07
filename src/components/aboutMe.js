@@ -13,8 +13,8 @@ class AboutMe extends Component{
 							<hr/>
 							<p> 
 								My name is Prakrit Baidya and I am a recent graduate from the UBC Computer Science program. 
-								I have had previous Co-op experience working at a Device and Data Security company called Absolute Software Corporation as a QA automation Engineer. 
-								where I learned technical skills such as Agile software development process, Automation testing process, Github, Java, RESTFUL services, Groovy scripting, Jenkins and JIRA in a real industry setting.
+								I have had previous Co-op experience working at a Device and Data Security company called Absolute Software Corporation as a QA automation Engineer
+								where I learned technical skills such as Agile software development process, Automation testing process, Github, Java, RESTFUL services, Groovy scripting, Jenkins and JIRA.
 							 	I have a strong background in software programming as I have learned and used various languages such as HTML, CSS, JavaScript, Java, JavaScript, Python and React during hackathon and personal projects. I have applied my skills by participating in multiple NW hackathons where I have worked on an Android application project using Java as well as a web application project.  
 							  	I have gained a strong knowledge of data structure and algorithms, Java, C, Node JS, TypeScript, relational Databases during my various CS courses. Besides software programming two of my passions are sports and volunteer work.
 							  </p>
