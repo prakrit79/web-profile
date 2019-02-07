@@ -12,7 +12,7 @@ class Projects extends Component{
 					</div>
 					<div className = "project-links">
 						<Cell col = {4}>
-							<Card shadow={0} style={{width: '100%', height: '100%', margin: 'auto'}}>
+							<Card shadow={0} style={{width: '200px', height: '100%', margin: 'auto'}}>
     							<CardTitle expand style={{background: 'url(https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png) center 20% no-repeat'}}>
     								Web Portfolio
     							</CardTitle>
@@ -25,9 +25,9 @@ class Projects extends Component{
 							</Card>
 						</Cell>
 						<Cell col = {4}>
-							<Card shadow={0} style={{width: '100%', height: '100%', margin: 'auto'}}>
+							<Card shadow={0} style={{width: '200px', height: '100%', margin: 'auto'}}>
     							<CardTitle expand style={{background: 'url(https://cdn2.iconfinder.com/data/icons/nodejs-1/128/nodejs-128.png) center 20%  no-repeat'}}>
-    								Concert Map
+    								Concerts Map
     							</CardTitle>
    								 <CardText>
         							JavaScript | JSON | REST
@@ -38,7 +38,7 @@ class Projects extends Component{
 							</Card>
 						</Cell>
 						<Cell col = {4}>
-							<Card shadow={0} style={{width: '100%', height: '100%', margin: 'auto'}}>
+							<Card shadow={0} style={{width: '200px', height: '100%', margin: 'auto'}}>
     							<CardTitle expand style={{background: 'url(https://liuji-jim.gallerycdn.vsassets.io/extensions/liuji-jim/vue/0.1.5/1478501659069/Microsoft.VisualStudio.Services.Icons.Default) center 20% no-repeat'}}>
     								 Clinic Data
     							</CardTitle>

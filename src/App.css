@@ -85,3 +85,11 @@
 .background{
 	background-size: 10px;
 }
+
+.CardTitle{
+	text-align: center;
+}
+
+.pdf-viewer{
+	padding-left: 20em;
+}

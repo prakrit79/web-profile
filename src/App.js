@@ -11,6 +11,7 @@ class App extends Component {
           <Layout>
             <Header className = "header-color" title="Prakrit Baidya" scroll>
               <Navigation>
+                  <Link to="/">Profile</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
