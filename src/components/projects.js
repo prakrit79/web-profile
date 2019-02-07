@@ -21,6 +21,7 @@ class Projects extends Component{
     							</CardText>
     							<CardActions border>
         							<Button onClick={() => window.open('https://github.com/prakrit79/web-profile')}colored>Github</Button>
+        							<Button onClick={() => window.open('https://web-portfolio-prakrit.herokuapp.com/')}colored>Live</Button>
     							</CardActions>
 							</Card>
 						</Cell>
