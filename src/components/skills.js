@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {Grid,Cell,Card,CardTitle,CardText,CardActions,Button} from "react-mdl";
 
-class Projects extends Component{
+class Skills extends Component{
 
 	render(){
 		return(
@@ -11,40 +11,33 @@ class Projects extends Component{
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '200px', height: '100%', margin: 'auto'}}>
     							<CardTitle expand style={{background: 'url(https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png) center 20% no-repeat'}}>
-    								Web Portfolio
+    								React
     							</CardTitle>
-   								 <CardText>
-        							CSS | HTML | React
-    							</CardText>
     							<CardActions border>
-        							<Button onClick={() => window.open('https://github.com/prakrit79/web-profile')}colored>Github</Button>
-        							<Button onClick={() => window.open('https://web-portfolio-prakrit.herokuapp.com/')}colored>Live</Button>
+    								<p> Projects </p>
+        							<Button onClick={() => window.open('https://github.com/prakrit79/web-profile')}colored>Web Profile Github</Button>
     							</CardActions>
 							</Card>
 						</Cell>
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '200px', height: '100%', margin: 'auto'}}>
     							<CardTitle expand style={{background: 'url(https://cdn2.iconfinder.com/data/icons/nodejs-1/128/nodejs-128.png) center 20%  no-repeat'}}>
-    								Concerts Map
+    								JavaScript
     							</CardTitle>
-   								 <CardText>
-        							JavaScript | JSON | REST
-    							</CardText>
     							<CardActions border>
-        							<Button onClick={() => window.open('https://github.com/prakrit79/ConcertsMap')} colored>Github</Button>
+    								<p> Projects </p>
+        							<Button onClick={() => window.open('https://github.com/prakrit79/ConcertsMap')} colored>ConcertsMap Github</Button>
     							</CardActions>
 							</Card>
 						</Cell>
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '200px', height: '100%', margin: 'auto'}}>
     							<CardTitle expand style={{background: 'url(https://liuji-jim.gallerycdn.vsassets.io/extensions/liuji-jim/vue/0.1.5/1478501659069/Microsoft.VisualStudio.Services.Icons.Default) center 20% no-repeat'}}>
-    								 Clinic Data
+    								 Vue JS
     							</CardTitle>
-   								 <CardText>
-        							CSS | Vue JS | SQL
-    							</CardText>
     							<CardActions border>
-        							<Button onClick={() => window.open('https://github.com/prakrit79/cpsc304-project-starter')}colored>Github</Button>
+    								<p> Projects </p>
+        							<Button onClick={() => window.open('https://github.com/prakrit79/cpsc304-project-starter')}colored>Clinic Database Github</Button>
     							</CardActions>
 							</Card>
 						</Cell>
@@ -56,4 +49,4 @@ class Projects extends Component{
 	}
 }
 
-export default Projects;
+export default Skills;

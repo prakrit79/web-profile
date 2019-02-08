@@ -7,7 +7,7 @@ import Main from './components/main'
 class App extends Component {
   render() {
     return (
-      <div class = "container">
+      <div className = "container">
           <Layout>
             <Header className = "header-color" title="Prakrit Baidya" scroll>
               <Navigation>
@@ -15,6 +15,7 @@ class App extends Component {
                   <Link to="/resume">Resume</Link>
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
+                  <Link to="/resumePDF">ResumePDF</Link>
               </Navigation>
             </Header>
             <Drawer title="Menu">
@@ -23,6 +24,7 @@ class App extends Component {
                   <Link to="/resume">Resume</Link>
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
+                  <Link to="/resumePDF">ResumePDF</Link>
               </Navigation>
           </Drawer>
           <Content>
