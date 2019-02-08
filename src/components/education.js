@@ -7,7 +7,7 @@ class Projects extends Component{
 		return(
 			<div style = {{width: "100%", margin: "auto"}}>
 				<Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-    				<CardTitle style={{color: '#fff', height: '176px', background: 'url(https://c1.staticflickr.com/9/8027/29016431894_2f218cea36_b.jpg) center / cover'}}></CardTitle>
+    				<CardTitle style={{borderColor: '#000C40', height: '176px', border: '40px', background: 'url(https://dl.dropbox.com/s/88cufjbde2kyuf0/29016431894_2f218cea36_b.jpeg?dl=0) center / contain'}}></CardTitle>
     				<CardTitle> University of British Columbia </CardTitle>
     				<CardText>
     					 <p>September 2014 - January 2019 </p>	
