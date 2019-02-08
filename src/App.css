@@ -93,3 +93,8 @@
 .pdf-viewer{
 	padding-left: 20em;
 }
+
+.mdl-card__supporting-text p{
+	font-weight: bold;
+	color: black;
+}
