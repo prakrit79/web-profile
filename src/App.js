@@ -11,7 +11,7 @@ class App extends Component {
           <Layout>
             <Header className = "header-color" title="Prakrit Baidya" scroll>
               <Navigation>
-                  <Link to="/">Profile</Link>
+                  <Link to="/">Home</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
@@ -20,7 +20,7 @@ class App extends Component {
             </Header>
             <Drawer title="Menu">
               <Navigation>
-                  <Link to="/">Profile</Link>
+                  <Link to="/">Home</Link>
                   <Link to="/resume">Resume</Link>
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
