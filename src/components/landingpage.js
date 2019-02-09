@@ -22,12 +22,10 @@ class LandingPage extends Component{
 								</a>
 
 								<a class="mailto" href="mailto:baidya.prakrit@gmail.com">
-									<i class="fas fa-address-card"></i>
+									<i class="fas fa-envelope"></i>
 								</a>
 							</div> 
 						</div>
-						
-
 					</Cell>
 				</Grid>
 			</div>
