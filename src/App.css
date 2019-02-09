@@ -62,6 +62,19 @@
 	padding: 8px;
 }
 
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+.contact-img{
+	height: 250px;
+}
+
 
 .project-grid{
 	width: 100%;
