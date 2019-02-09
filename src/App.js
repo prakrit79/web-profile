@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Layout, Navigation, Header,Drawer,Content } from 'react-mdl';
-import {Link} from 'react-router-dom'
-import Main from './components/main'
+import {Link} from 'react-router-dom';
+import Main from './components/main';
 
 class App extends Component {
   render() {
@@ -16,6 +16,7 @@ class App extends Component {
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
                   <Link to="/resumePDF">ResumePDF</Link>
+                  <Link to="/contact">Contact</Link>
               </Navigation>
             </Header>
             <Drawer title="Menu">
@@ -25,6 +26,7 @@ class App extends Component {
                   <Link to="/aboutMe">About Me</Link>
                   <Link to="/projects">Projects</Link>
                   <Link to="/resumePDF">ResumePDF</Link>
+                  <Link to="/contact">Contact</Link>
               </Navigation>
           </Drawer>
           <Content>

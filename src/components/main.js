@@ -9,6 +9,7 @@ import ResumePDF from './resumePDF';
 import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
+import Contact from './contact';
 
 const Main = () => (
   <Switch>
@@ -21,6 +22,7 @@ const Main = () => (
     <Route path="/projects" component={Projects} />
     <Route path="/highlights" component={Highlights} />
     <Route path="/skills" component={Skills} />
+    <Route path="/contact" component={Contact} />
   </Switch>
 )
 
