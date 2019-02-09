@@ -47,10 +47,10 @@ class Projects extends Component{
     							</CardTitle>
                                     Clinic Database
    								 <CardText>
-        							CSS | Vue JS | SQL
+        							CSS | Node JS | Vue JS | SQL
     							</CardText>
                                 <CardText>
-                                    Me and my team created a clinic database using SQL and Vue that would allow a medical clinic to operate efficiently through the help of direct appointment, referral as well as prescription system.
+                                    Me and my team created a clinic database using SQL, Node JS and Vue that would allow a medical clinic to operate efficiently through the help of direct appointment, referral as well as prescription system.
                                 </CardText>
     							<CardActions border>
         							<Button onClick={() => window.open('https://github.com/prakrit79/cpsc304-project-starter')}colored>Github</Button>
