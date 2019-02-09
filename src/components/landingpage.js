@@ -11,7 +11,7 @@ class LandingPage extends Component{
 						<div className = "banner-text">
 							<h1> Web Developer and QA Automation Engineer </h1>
 							<hr/>
-							<p>Agile Methodologies| HTML/CSS | Java | JavaScript | React | Python | SoapUI | Selenium | SQL </p>
+							<p> Passionate about leveraging technology and creativity to create innovative solutions</p>
 							<div className = "social-links">
 								<a href = "https://www.linkedin.com/in/prakrit-baidya-69916a120/" rel = "noopener noreferrer" target = "_blank">
 									<i class = "fab fa-linkedin" aria-hidden = "true"/>

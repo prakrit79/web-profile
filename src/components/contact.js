@@ -41,7 +41,16 @@ class Contact extends Component {
     							</CardActions>
 							</Card>
 						</Cell>
-						
+						<Cell col = {4}>
+							<Card shadow={0} style={{width: '220px', margin: 'auto'}}>
+    							<CardTitle style={{height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-256/apple-phone-2-493154.png) center / contain no-repeat'}}>
+    							</CardTitle>
+                                    Phone
+   								 <CardText>
+        							7783205662
+    							</CardText>
+							</Card>
+						</Cell>		
 						<Cell col = {4}>
 							<Card shadow={0} style={{width: '220px', margin: 'auto'}}>
     							<CardTitle style={{height: '176px', background: 'url(https://pinkeyegraphics.co.uk/wp-content/uploads/gmail-icon.ico) center / contain no-repeat'}}>
@@ -53,16 +62,6 @@ class Contact extends Component {
     							<CardActions border>
         							<Button onClick={() => window.open('mailto:baidya.prakrit@gmail.com')}colored>Email</Button>
     							</CardActions>
-							</Card>
-						</Cell>
-						<Cell col = {4}>
-							<Card shadow={0} style={{width: '220px', margin: 'auto'}}>
-    							<CardTitle style={{height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-256/apple-phone-2-493154.png) center / contain no-repeat'}}>
-    							</CardTitle>
-                                    Phone
-   								 <CardText>
-        							7783205662
-    							</CardText>
 							</Card>
 						</Cell>
 						<Cell col = {4}>
